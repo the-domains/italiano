@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T00:29:02.238Z'
-dateModified: '2016-02-21T00:28:25.035Z'
-title: "L'Italiano in Des Moines"
+datePublished: '2016-02-21T00:36:02.782Z'
+dateModified: '2016-02-21T00:29:49.959Z'
+title: "L'Italiano"
 author: []
 sourcePath: _posts/2016-02-21-litaliano-in-des-moines.md
 published: true
