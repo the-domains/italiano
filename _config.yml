@@ -1,6 +1,6 @@
-name: Italiano
+name: "L'Italiano"
 favicon: null
-layout_spectrum: 0.9672395
+layout_spectrum: 0.74123
 typography_spectrum: 0.06498389
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#040405'
     - '#424242'
     - '#D4A0A2'
-  brandStrength: 0.9242749
+  brandStrength: 0.8125
   lightness: 0.7333182
   saturation: 0.8535079
   rhythmicContrast: 0.1688627
