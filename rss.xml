@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Italiano]]></title>
         <description><![CDATA[Italiano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/italiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 00:28:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 00:29:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/italiano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[L'Italiano in Des Moines]]></title>
-            <description><![CDATA[<article><h1>L'Italiano in Des Moines</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c888d6d-acd8-464b-9d93-e40094da853e.png"></article>]]></description>
-            <link>undefinedlitaliano-in-des-moines/index.html</link>
+            <description><![CDATA[<article><h1>L'Italiano in Des Moines</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72e2f20a1e7a29a9c9645f9eac044bba772e9e66.png"></article>]]></description>
+            <link>https://thegrid.ai/italiano/litaliano-in-des-moines/index.html</link>
             <guid isPermaLink="false">da5e9f26-bbc8-4f71-bbb4-fd4e6905c23b</guid>
-            <pubDate>Sun, 21 Feb 2016 00:28:19 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 00:29:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
